@@ -1,0 +1,19 @@
+{
+  "name": "porrio",
+  "version": "1.0.0",
+  "description": "Apuesta en una porra",
+  "main": "./Apuesta.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjls130598/porras.git"
+  },
+  "author": "María Jesús López Salmerón <mjls130598@gmail.com> (https://github.com/mjls130598/porras.git)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjls130598/porras/issues"
+  },
+  "homepage": "https://github.com/mjls130598/porras#readme"
+}
