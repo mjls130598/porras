@@ -17,5 +17,7 @@
   },
   "homepage": "https://github.com/mjls130598/porras#readme",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "mocha": "^8.2.0"
+  }
 }
